@@ -3,7 +3,7 @@
 
 <h3 align="center">About me ⭐️</h3>
 
- Hi there, I'm Barış Güleç, a first-year computer engineering student who is passionate about programming. Currently, I'm focusing on learning Flutter and C programming languages, and I'm also involved in a TUBITAK project using Flutter. Recently, I've started learning the Python programming language as well.
+ Hi there, I'm Barış, a first-year computer engineering student who is passionate about programming. Currently, I'm focusing on learning Flutter and C programming languages, and I'm also involved in a TUBITAK project using Flutter. Recently, I've started learning the Python programming language as well.
 
 I completed my preparatory studies at European University in Lefke. In addition to my studies, I also serve as the Vice President of LÖSEV (the foundation for children with leukemia) at my university. I write simple blog articles on the Medium platform in both English and Turkish.
 
