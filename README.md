@@ -13,7 +13,7 @@ I enjoy exploring new coffee shops :) Thank you for taking the time to read abou
 
 - 📝 I regularly write articles on [https://barissglc.medium.com/](https://barissglc.medium.com/)
 
-- 📫 How to reach me **barispvp@hotmail.com**
+- 📫 How to reach me : **barispvp@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
