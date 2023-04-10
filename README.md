@@ -29,4 +29,4 @@ I enjoy exploring new coffee shops :) Thank you for taking the time to read abou
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barissglc&show_icons=true&locale=en" alt="barissglc" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barissglc&label=Profile%20views&color=0e75b6&style=flat" alt="barissglc" /> </p>
-![urahara](https://user-images.githubusercontent.com/87657907/230896440-3fe89d70-7b56-4166-8f1d-dde5414630b1.gif)
+
