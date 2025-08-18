@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">A Computer Engineer and AI Enthusiast</h3>
+<h3 align="center">AI Engineer</h3>
 
 <h3 align="center">About me ⭐️</h3>
 
