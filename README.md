@@ -3,7 +3,7 @@
 
 <h3 align="center">About me ⭐️</h3>
 
-Hi there, I'm Barış, a third-year computer engineering student with a passion for artificial intelligence and programming. Currently, I'm working as an AI engineer intern at **Dpointgroup** in Barcelona. I specialize in **Python**, particularly in the fields of **Large Language Models** and **Computer Vision**. Additionally, I am a **GDG Team Member** and a finalist at **Teknofest** in the healthcare AI category.
+Hi there, I'm Barış, 4th-year computer engineering student with a passion for artificial intelligence and programming. Currently, I'm working as an AI engineer intern at **Dpointgroup** in Barcelona. I specialize in **Python**, particularly in the fields of **Large Language Models** and **Computer Vision**. Additionally, I am a **GDG Team Member** and a finalist at **Teknofest** in the healthcare AI category.
 
 I regularly share my knowledge and insights on Medium, where you can read my articles about artificial intelligence and related topics.
 
