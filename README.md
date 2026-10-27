@@ -1,30 +1,42 @@
-<h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">AI Engineer</h3>
+# Hi, I'm Barış 👋
 
-<h3 align="center">About me ⭐️</h3>
+**AI Engineer at ESTAL · Barcelona, Spain**
 
-Hi there, I'm Barış, 4th-year computer engineering student with a passion for artificial intelligence and programming. Currently, I'm working as an AI engineer intern at **Dpointgroup** in Barcelona. I specialize in **Python**, particularly in the fields of **Large Language Models** and **Computer Vision**. Additionally, I am a **GDG Team Member** and a finalist at **Teknofest** in the healthcare AI category.
+I build applied AI systems, from data pipelines and models to APIs, interfaces, and production deployments. My work focuses on LLMs, multi-agent workflows, computer vision, and automation.
 
-I regularly share my knowledge and insights on Medium, where you can read my articles about artificial intelligence and related topics.
+At **ESTAL**, I develop AI products and tools for business and industrial workflows. I'm also the founder of **Canada Next**, where I combine AI content production with a native news app, and **SafeDose**, an AI medication safety platform.
 
-- 🔭 I’m currently working as an AI Engineer Intern at [Dpointgroup, Barcelona](https://www.dpointgroup.com/)
-- 📝 I regularly write articles on [https://barisgulecdev.medium.com/](https://barisgulecdev.medium.com/)
-- 📫 How to reach me: **barispvp@hotmail.com**
+[Website](https://gulecbaris.tech) · [LinkedIn](https://www.linkedin.com/in/barissglc/) · [Medium](https://barisgulecdev.medium.com/) · [Email](mailto:baris@gulecbaris.tech)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/barış-güleç-6b0089220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barış-güleç-6b0089220" height="30" width="40" /></a>
-<a href="https://medium.com/@barissglc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@barissglc" height="30" width="40" /></a>
-</p>
+## What I work on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-</p>
+- **LLM systems:** RAG, multi-agent orchestration, tool calling, model fine-tuning, and human review workflows.
+- **Applied ML and computer vision:** prediction pipelines, object detection, OCR, and document processing.
+- **AI products:** Python/FastAPI backends, React interfaces, SwiftUI apps, and data services.
+- **Infrastructure and developer tools:** Docker, Linux, self-hosted models, MCP integrations, and GPU workflows.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barissglc&show_icons=true&locale=en&layout=compact" alt="barissglc" /></p>
+## Open-source contributions
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barissglc&show_icons=true&locale=en" alt="barissglc" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barissglc&label=Profile%20views&color=0e75b6&style=flat" alt="barissglc" /> </p>
+I contribute fixes to tools I use, with a focus on reproducible bugs, regression tests, and upstream integration.
+
+| Project | Stars | Contribution | Status |
+| --- | --- | --- | --- |
+| [Souvlaki](https://github.com/Sinono3/souvlaki) | ![Souvlaki stars](https://img.shields.io/github/stars/Sinono3/souvlaki?style=flat&label=stars) | Added opt-in macOS/iOS shuffle commands and native shuffle-state publication. | [Merged #85](https://github.com/Sinono3/souvlaki/pull/85) |
+| [iMCP](https://github.com/mattt/iMCP) | ![iMCP stars](https://img.shields.io/github/stars/mattt/iMCP?style=flat&label=stars) | Fixed Codex initialization compatibility in the CLI bridge. | [Merged #261](https://github.com/mattt/iMCP/pull/261) |
+| [Tinycast](https://github.com/abue-ammar/tinycast) | ![Tinycast stars](https://img.shields.io/github/stars/abue-ammar/tinycast?style=flat&label=stars) | Preserved pinned clipboard entries during Raycast import so retention would not discard them. | [Merged #1284](https://github.com/abue-ammar/tinycast/pull/1284) |
+
+I also investigate and report integration issues in [Spotifast](https://github.com/crmne/spotifast/issues/898) and [Boring Notch](https://github.com/TheBoredTeam/boring.notch/issues/1685). The Souvlaki shuffle contribution is merged upstream; adoption in Spotifast is tracked separately.
+
+## Background
+
+- **B.Sc. in Computer Engineering**, Kütahya Health Sciences University, 2026. Graduated **2nd in class**, GPA **3.56/4.00**.
+- Previous AI engineering internships at **Microsoft**, **HAVELSAN**, and **Dpointgroup**.
+- **2nd place** at the **AI'mpact Full-Stack AI Agent Hackathon** with **Kapsül AI**, a healthcare startup supported by **İTÜ Çekirdek**.
+- **TEKNOFEST 2024 finalist**, Artificial Intelligence in Health.
+- Aspire Leaders Program graduate, GDG community contributor, and technical writer on Medium.
+
+## Tools I use
+
+**AI & ML:** PyTorch · TensorFlow · scikit-learn · Agno · LangGraph · LangChain · YOLO · RT-DETR  
+**Applications & data:** Python · FastAPI · React · JavaScript · SwiftUI · PostgreSQL · Supabase · pandas  
+**Infrastructure:** Docker · Linux · MCP · Google Colab · n8n
